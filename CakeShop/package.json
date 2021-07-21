@@ -1,0 +1,63 @@
+{
+  "name": "cakeshop",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@sweetalert2/theme-dark": "^4.0.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "animate.css-react": "^1.1.0",
+    "aos": "^2.3.4",
+    "axios": "^0.20.0",
+    "bootstrap": "^4.5.3",
+    "carousel": "0.0.3",
+    "isotope": "^1.0.0-alpha.3",
+    "isotope-layout": "^3.0.6",
+    "jquery": "^3.5.1",
+    "mdbreact": "^5.0.1",
+    "owl.carousel": "^2.3.4",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^16.14.0",
+    "react-icofont": "^1.0.19",
+    "react-moment": "^1.1.1",
+    "react-paypal-button-v2": "^2.6.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "sweetalert2": "^10.6.1",
+    "venobox": "^1.9.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@iconify/icons-brandico": "^1.1.0",
+    "@iconify/icons-bx": "^1.1.0",
+    "@iconify/icons-entypo-social": "^1.1.0",
+    "@iconify/icons-eva": "^1.1.0",
+    "@iconify/icons-fluent": "^1.1.2",
+    "@iconify/icons-grommet-icons": "^1.1.0",
+    "@iconify/icons-mdi": "^1.1.7",
+    "@iconify/icons-raphael": "^1.1.0",
+    "@iconify/react": "^1.1.3"
+  }
+}
